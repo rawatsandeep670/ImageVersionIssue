@@ -1,0 +1,17 @@
+
+.game-table {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	background: url(../assets/images/grey_bg_theme_small.png) no-repeat;
+	background-size: 100% 100%
+}
+
+.h-icon {
+	width: 32px;
+    height: 32px;
+    margin: 0 auto;
+	background-image: url(../assets/images/checked.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
